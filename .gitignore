@@ -1,0 +1,11 @@
+### INTELLIJ
+*.iml
+/.idea/workspace.xml
+/.idea/libraries
+/.idea/modules
+/.idea/gradle.xml
+/.idea/misc.xml
+/.idea/modules.xml
+
+### OTHER
+*.DS_Store
